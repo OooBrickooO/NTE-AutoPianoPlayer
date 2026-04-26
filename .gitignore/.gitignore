@@ -1,0 +1,25 @@
+虚拟环境目录
+
+.venv/
+venv/
+env/
+
+PyInstaller 打包生成的目录和文件
+
+build/
+dist/
+*.spec
+
+Python 缓存文件
+
+pycache/
+*.pyc
+
+IDE 配置文件 (例如 PyCharm)
+
+.idea/
+.vscode/
+
+你的本地 MIDI 文件夹，不上传用户的本地数据
+
+midi_file/
