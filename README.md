@@ -2,7 +2,7 @@ NTE AutoPiano (异环自动弹琴)
 
 基于 Python 和 PyQt6 编写的《异环》MIDI 自动弹奏工具。通过底层 DirectInput 模拟键盘输入，安全稳定。
 
-具体使用可看B站视频教程
+具体使用可看B站视频教程 https://www.bilibili.com/video/BV1WJovB1Ez5/
 
 ✨ 功能特点
 
